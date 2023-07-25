@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/movie.php';
+require __DIR__ . '/Movie.php';
 
 $movies = [
     new Movie("Boxe", "Action", 120, "https://www.postermania.it/87308-thickbox_default/manifesto-boxe-pugile-gene-hackman-jennifer-beals-split-decisions-pugilato-a133.jpg"),
